@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Anlyst
 -----------
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in North West London.
 * ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
-* 🧠  I'm learning Data Analysis Bootcamp
-* 🤝  I'm open to collaborating on AI Learning
+* 🧠  I'm learning Data Analysis Bootcamp.
+* 🤝  I'm open to collaborating on AI Learning.
 
 ### Skills
 
