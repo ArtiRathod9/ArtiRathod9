@@ -16,6 +16,27 @@ I'm seeking a role as Junior Data Anlyst.
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
+🛠️ Technical Skills
+​
+-Electronic File Management​
+-Internet Research​, AI research
+-Basic MS Office Applications(Word, Powerpoint, Excel, Outlook)​
+
+🤝 Soft Skills
+- Analytical Thinking​
+- Problem Solving​
+- Critical Thinking​
+- Attention to Detail​
+- Effective Communication​
+- Collaboration & Teamwork​
+- Adaptability​
+- Time Management​
+- Business Acumen​
+- Data Visualization​
+- Stakeholder Management​
+- Decision Making​
+- Quick Learner​
+- Curiosity & Eagerness to Learn Modern Technologies​
 
 ### Socials
 
