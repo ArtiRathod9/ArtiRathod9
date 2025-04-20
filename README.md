@@ -9,6 +9,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  More recently, at **Insight UK** and **Tesla**, I collaborated closely with sales and product teams, managing large data systems to ensure seamless operations in fast-paced environments.
  To enhance my technical skills, I completed a **Data Analytics Bootcamp**, gaining hands-on experience in:
  **SQL** , **Python**, **Visualization tools** like **Tableau, Excel, and Power BI**
+ 
 #### I'm now eager to leverage this blend of experience and technical expertise in a **data-focused role** to drive insights and support strategic decision-making.
 
 
