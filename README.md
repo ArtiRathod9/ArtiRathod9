@@ -6,7 +6,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  I hold a Master's in Computer Applications and have a diverse background spanning **finance, operations, and technology**.
  Early in my career, I worked as a **Trainee Business Change Developer** at an accounting firm, where I facilitated system changes and generated reports across departments. 
  Subsequently, at **Axpo UK**, I worked as an **Operations and Finance Analyst**, developing Excel and VBA tools to automate reporting and support high-value invoicing.
- More recently, at **Insight UK** and **Tesla**, I collaborated closely with sales and product teams, managing large data systems to ensure seamless operations in fast-paced environments.
+ More recently, at **Insight UK** and **CA Auto Finance for Tesla account**, I collaborated closely with sales and product teams, managing large data systems to ensure seamless operations in fast-paced environments.
  To enhance my technical skills, I completed a **Data Analytics Bootcamp**, gaining hands-on experience in:
  **SQL** , **Python**, **Visualization tools** like **Tableau, Excel, and Power BI**
  
