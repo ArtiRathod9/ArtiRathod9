@@ -1,13 +1,20 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arti Rathod
 ===================================================================================================================================
-
-I'm seeking a role as Junior Data Anlyst.
 -----------
 
-* 🌍  I'm based in North West London.
+🌍  I'm based in North West London.
+ I hold a Master's in Computer Applications and have a diverse background spanning **finance, operations, and technology**.
+ Early in my career, I worked as a **Trainee Business Change Developer** at an accounting firm, where I facilitated system changes and generated reports across departments. 
+ Subsequently, at **Axpo UK**, I worked as an **Operations and Finance Analyst**, developing Excel and VBA tools to automate reporting and support high-value invoicing.
+ More recently, at **Insight UK** and **Tesla**, I collaborated closely with sales and product teams, managing large data systems to ensure seamless operations in fast-paced environments.
+ To enhance my technical skills, I completed a **Data Analytics Bootcamp**, gaining hands-on experience in:
+ **SQL** , **Python**, **Visualization tools** like **Tableau, Excel, and Power BI**
+#### I'm now eager to leverage this blend of experience and technical expertise in a **data-focused role** to drive insights and support strategic decision-making.
+
+
 * ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
-* 🧠  I'm learning Data Analysis Bootcamp.
-* 🤝  I'm open to collaborating on AI Learning.
+* 🧠  I'm completeing my Data Analysis Bootcamp soon.
+* 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions, where I can contribute both domain expertise and technical insight.
 
 ### Skills
 
@@ -17,9 +24,9 @@ I'm seeking a role as Junior Data Anlyst.
 </p>
 
 --- 
-🛠️ Technical Skills
+### 🛠️ Technical Skills
 ​
-- Advanced proficiency in Excel-
+- Advanced proficiency in Excel
 - SQL, Tableau
 - Power BI 
 - Python
@@ -28,7 +35,7 @@ I'm seeking a role as Junior Data Anlyst.
 - Internet Research​, AI research
 - Basic MS Office Applications(Word, Powerpoint, Outlook)​
 
-🤝 Soft Skills
+### 🤝 Soft Skills
 - Analytical Thinking​
 - Problem Solving​
 - Critical Thinking​
