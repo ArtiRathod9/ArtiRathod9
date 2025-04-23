@@ -12,7 +12,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  
 #### I'm now eager to leverage this blend of experience and technical expertise in a **data-focused role** to drive insights and support strategic decision-making.
 
-Apart from my work life, I'm proud mum of to kids. I love travelling, I have travelled Spain, Italy, Prais, Portugal,Turkey,Greece,India and USA so far. I love spending time with my family and enjoy travelling with them. I enjoy cooking ,I cook different cusine like Maxican, Italian, english, Indian of course.
+Outside of my professional life, I'm a proud mum of two. I absolutely love traveling and have had the chance to visit amazing places like Spain, Italy, Paris, Portugal, Turkey, Greece, India, and the USA. Spending quality time and exploring new places with my family is something I truly cherish. I also have a passion for cooking and enjoy preparing a variety of cuisines including Mexican, Italian, English, and of course, Indian.
 
 * ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
 * 🧠  I'm completeing my Data Analysis Bootcamp soon.
