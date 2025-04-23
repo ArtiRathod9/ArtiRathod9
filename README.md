@@ -8,10 +8,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Subsequently, at **Axpo UK**, I worked as an **Operations and Finance Analyst**, developing Excel and VBA tools to automate reporting and support high-value invoicing.
  More recently, at **Insight UK** and **CA Auto Finance for Tesla account**, I collaborated closely with sales and product teams, managing large data systems to ensure seamless operations in fast-paced environments.
  To enhance my technical skills, I completed a **Data Analytics Bootcamp**, gaining hands-on experience in:
- **SQL** , **Python**, **Visualization tools** like **Tableau, Excel, and Power BI**
+ **SQL** , **Python**, **Visualization tools** like **Tableau, Excel, and Power BI.**
  
 #### I'm now eager to leverage this blend of experience and technical expertise in a **data-focused role** to drive insights and support strategic decision-making.
 
+Apart from my work life, I'm proud mum of to kids. I love travelling, I have travelled Spain, Italy, Prais, Portugal,Turkey,Greece,India and USA so far. I love spending time with my family and enjoy travelling with them. I enjoy cooking ,I cook different cusine like Maxican, Italian, english, Indian of course.
 
 * ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
 * 🧠  I'm completeing my Data Analysis Bootcamp soon.
