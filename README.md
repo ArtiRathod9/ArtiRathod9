@@ -15,7 +15,7 @@ Worked at ***Axpo UK as an Operations and Finance Analyst***:
 - Managed large data systems to ensure seamless operations in fast-paced environments.
 ***Completed a data analytics bootcamp:***
 Gained hands-on experience in ***SQL, Python, and visualization tools like Tableau, Excel, and Power BI.***
-***Looking to leverage combined experience and technical expertise in a data-focused role to drive insights and support strategic decision-making.***
+- ***Looking to leverage combined experience and technical expertise in a data-focused role to drive insights and support strategic decision-making.***
 
 - 🧠  I've completed my Data Analysis Bootcamp.
 - 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions, where I can contribute both domain expertise and technical insight.
