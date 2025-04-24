@@ -18,7 +18,7 @@ Gained hands-on experience in ***SQL, Python, and visualization tools like Table
 - ***Looking to leverage combined experience and technical expertise in a data-focused role to drive insights and support strategic decision-making.***
 
 - 🧠  I've completed my Data Analysis Bootcamp.
-- 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions, where I can contribute both domain expertise and technical insight.
+- 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions(Hybrid roles), where I can contribute both domain expertise and technical insight.
 - ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
 ### Skills
 
