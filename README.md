@@ -2,18 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===================================================================================================================================
 -----------
 
-🌍  I'm based in North West London.
- I hold a Master's in Computer Applications and have a diverse background spanning **finance, operations, and technology**.
- Early in my career, I worked as a **Trainee Business Change Developer** at an accounting firm, where I facilitated system changes and generated reports across departments. 
- Subsequently, at **Axpo UK**, I worked as an **Operations and Finance Analyst**, developing Excel and VBA tools to automate reporting and support high-value invoicing.
- More recently, at **Insight UK** and **CA Auto Finance for Tesla account**, I collaborated closely with sales and product teams, managing large data systems to ensure seamless operations in fast-paced environments.
- To enhance my technical skills, I completed a **Data Analytics Bootcamp**, gaining hands-on experience in:
- **SQL** , **Python**, **Visualization tools** like **Tableau, Excel, and Power BI.**
- 
-#### I'm now eager to leverage this blend of experience and technical expertise in a **data-focused role** to drive insights and support strategic decision-making.
-
-Outside of my professional life, I'm a proud mum of two. I absolutely love traveling and have had the chance to visit amazing places like Spain, Italy, Paris, Portugal, Turkey, Greece, India, and the USA. Spending quality time and exploring new places with my family is something I truly cherish. I also have a passion for cooking and enjoy preparing a variety of cuisines including Mexican, Italian, English, and of course, Indian.
-
+* 🌍  I'm based in North West London.
 * ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
 * 🧠  I'm completeing my Data Analysis Bootcamp soon.
 * 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions, where I can contribute both domain expertise and technical insight.
