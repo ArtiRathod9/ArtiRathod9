@@ -3,19 +3,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -----------
 
  🌍  I'm based in North West London.
-* Hold a Master’s in Computer Applications with a diverse background in finance, operations, and technology.
-Began career as a Trainee Business Change Developer at an accounting firm:
+* Hold a Master’s in Computer Applications with a diverse background in ***finance,operations and technology***.
+Began career as a ***Trainee Business Change Developer*** at an accounting firm:
 - Facilitated system changes.
 - Generated reports across departments.
-Worked at Axpo UK as an Operations and Finance Analyst:
+Worked at ***Axpo UK as an Operations and Finance Analyst***:
 - Developed Excel and VBA tools to automate reporting.
 - Supported high-value invoicing processes.
-At Insight UK and Tesla:
+***At Insight UK and Tesla:***
 - Collaborated closely with sales and product teams.
 - Managed large data systems to ensure seamless operations in fast-paced environments.
-Completed a data analytics bootcamp:
-Gained hands-on experience in SQL, Python, and visualization tools like Tableau, Excel, and Power BI.
-Looking to leverage combined experience and technical expertise in a data-focused role to drive insights and support strategic decision-making.
+***Completed a data analytics bootcamp:***
+Gained hands-on experience in ***SQL, Python, and visualization tools like Tableau, Excel, and Power BI.***
+***Looking to leverage combined experience and technical expertise in a data-focused role to drive insights and support strategic decision-making.***
 
 - 🧠  I've completed my Data Analysis Bootcamp.
 - 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions, where I can contribute both domain expertise and technical insight.
