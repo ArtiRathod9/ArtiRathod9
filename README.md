@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 * 🌍  I'm based in North West London.
 * ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
-* 🧠  I'm completeing my Data Analysis Bootcamp soon.
+* 🧠  I've completed my Data Analysis Bootcamp.
 * 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions, where I can contribute both domain expertise and technical insight.
 
 ### Skills
