@@ -7,10 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Began career as a ***Trainee Business Change Developer*** at an accounting firm:
 - Facilitated system changes.
 - Generated reports across departments.
-Worked at ***Axpo UK as an Operations and Finance Analyst***:
+- Worked at ***Axpo UK as an Operations and Finance Analyst***:
 - Developed Excel and VBA tools to automate reporting.
 - Supported high-value invoicing processes.
-***At Insight UK and Tesla:***
+- ***At Insight UK and Tesla:***
 - Collaborated closely with sales and product teams.
 - Managed large data systems to ensure seamless operations in fast-paced environments.
 ***Completed a data analytics bootcamp:***
