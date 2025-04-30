@@ -1,24 +1,42 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arti Rathod
 ===================================================================================================================================
 -----------
+---
 
- 🌍  I'm based in North West London.
-* Hold a Master’s in Computer Applications with a diverse background in ***finance,operations and technology***.
-Began career as a ***Trainee Business Change Developer*** at an accounting firm:
-- Facilitated system changes.
-- Generated reports across departments.
-- Worked at ***Axpo UK as an Operations and Finance Analyst***:
-- Developed Excel and VBA tools to automate reporting.
-- Supported high-value invoicing processes.
-- ***At Insight UK and Tesla:***
-- Collaborated closely with sales and product teams.
-- Managed large data systems to ensure seamless operations in fast-paced environments.
-***Completed a data analytics bootcamp:***
-Gained hands-on experience in ***SQL, Python, and visualization tools like Tableau, Excel, and Power BI.***
+ 🌍  I'm based in **North West London**. I hold a **Master's in Computer Applications** and have a diverse background spanning **finance, operations, and technology**.
+
+Early in my career, I worked as a **Trainee Business Change Developer** at an accounting firm, where I facilitated system changes and generated reports across departments.
+
+Subsequently, at **Axpo UK**, I worked as an **Operations and Finance Analyst**, developing Excel and VBA tools to automate reporting and support high-value invoicing.
+
+More recently, at **Insight UK and CA Auto Finance for Tesla account**, I collaborated closely with sales and product teams, managing large data systems to ensure seamless operations in fast-paced environments.
+
+To enhance my technical skills, I completed a **Data Analytics Bootcamp**, gaining hands-on experience in:
+- **SQL**
+- **Python**
+- **Visualization tools** like **Tableau**, **Excel**, and **Power BI**
+
+---
+
+I'm now eager to leverage this blend of experience and technical expertise in a **data-focused role** to drive insights and support strategic decision-making.
+
+---
+
+### 🌍 About Me
+Outside of my professional life:
+- 👩‍👧‍👦 I'm a proud mum.
+- ✈️ I love traveling and have visited: **Spain, Italy, Paris, Portugal, Turkey, Greece, India, and the USA**.
+- 🥘 I enjoy cooking a variety of cuisines including **Mexican, Italian, English, and Indian**.
+
+- 🏋️ I also like going to the **gym** in my leisure time to stay active and healthy.
+
+---
 - ***Looking to leverage combined experience and technical expertise in a data-focused role to drive insights and support strategic decision-making.***
 
 - 🧠  I've completed my Data Analysis Bootcamp.
 - 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions(Hybrid roles), where I can contribute both domain expertise and technical insight.
+  
+📫 *Let’s connect and collaborate on meaningful data projects!*
 - ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
 ### Skills
 
