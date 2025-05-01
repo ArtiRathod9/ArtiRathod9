@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arti Rathod
 ===================================================================================================================================
------------
 ---
 
  🌍  I'm based in **North West London**. I hold a **Master's in Computer Applications** and have a diverse background spanning **finance, operations, and technology**.
@@ -20,21 +19,16 @@ To enhance my technical skills, I completed a **Data Analytics Bootcamp**, gaini
 
 I'm now eager to leverage this blend of experience and technical expertise in a **data-focused role** to drive insights and support strategic decision-making.
 
+- 🧠  I've completed my Data Analysis Bootcamp.
+- 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions(Hybrid roles), where I can contribute both domain expertise and technical insight.
 ---
 
-### 🌍 About Me
-Outside of my professional life:
+### 🌍 About Me Outside of my professional life:
 - 👩‍👧‍👦 I'm a proud mum.
 - ✈️ I love traveling and have visited: **Spain, Italy, Paris, Portugal, Turkey, Greece, India, and the USA**.
 - 🥘 I enjoy cooking a variety of cuisines including **Mexican, Italian, English, and Indian**.
-
 - 🏋️ I also like going to the **gym** in my leisure time to stay active and healthy.
 
----
-- ***Looking to leverage combined experience and technical expertise in a data-focused role to drive insights and support strategic decision-making.***
-
-- 🧠  I've completed my Data Analysis Bootcamp.
-- 🤝  I am seeking opportunities that blend Finance and Operations with Data Analyst functions(Hybrid roles), where I can contribute both domain expertise and technical insight.
   
 📫 *Let’s connect and collaborate on meaningful data projects!*
 - ✉️  You can contact me at [arti.rathod@hotmail.com](mailto:arti.rathod@hotmail.com)
